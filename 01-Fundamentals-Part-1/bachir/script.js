@@ -1,3 +1,4 @@
+/*
 ////////////////////////////////////
 // {{2}} - [8] :: Linking a JavaScript File
 let js = 'amazing';
@@ -50,3 +51,19 @@ year = 1991;
 console.log(typeof year);
 
 console.log(typeof null);
+*/
+
+////////////////////////////////////
+// let, const and var
+let age = 30;
+age = 31;
+
+const birthYear = 1991;
+// birthYear = 1990;
+// const job;
+
+var job = 'programmer';
+job = 'teacher'
+
+lastName = 'Schmedtmann';
+console.log(lastName);
